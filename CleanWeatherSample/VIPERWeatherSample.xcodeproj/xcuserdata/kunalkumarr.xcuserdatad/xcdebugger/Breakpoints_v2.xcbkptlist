@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "74E2FBA5-E9A4-49A5-9E30-FFF22B4E6285"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F68D0D5B-8456-4850-9E3A-A1162C309DFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPERWeatherSample/Data/DataSource/WeatherDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "saveWeatherData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFE8736E-46CF-4B68-B444-7B460F23A826"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPERWeatherSample/Data/RepositoryImpl/WeatherRepositoryImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchWeather()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFE8736E-46CF-4B68-B444-7B460F23A826 - 54289166e6114b12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VIPERWeatherSample.WeatherRepositoryImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Data/RepositoryImpl/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "BFE8736E-46CF-4B68-B444-7B460F23A826 - ce3bf25d9e9194ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VIPERWeatherSample.WeatherRepositoryImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Data/RepositoryImpl/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "BFE8736E-46CF-4B68-B444-7B460F23A826 - 7fa93095fc578f10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VIPERWeatherSample.WeatherRepositoryImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Data/RepositoryImpl/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "BFE8736E-46CF-4B68-B444-7B460F23A826 - 74eae34c4f7b2d11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VIPERWeatherSample.WeatherRepositoryImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Data/RepositoryImpl/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "BFE8736E-46CF-4B68-B444-7B460F23A826 - 74eae34c4f7b2d11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VIPERWeatherSample.WeatherRepositoryImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Data/RepositoryImpl/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "BFE8736E-46CF-4B68-B444-7B460F23A826 - 3a56c1f27a6f8e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VIPERWeatherSample.List) -&gt; VIPERWeatherSample.List in VIPERWeatherSample.WeatherRepositoryImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Data/RepositoryImpl/WeatherRepositoryImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EC2FC0D-EED1-476A-A126-A2553040F253"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPERWeatherSample/Domain/UseCase/FetchWeatherUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchWeather()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5EC2FC0D-EED1-476A-A126-A2553040F253 - cb95f469d92479d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VIPERWeatherSample.FetchWeatherUseCaseImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Domain/UseCase/FetchWeatherUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+               <Location
+                  uuid = "5EC2FC0D-EED1-476A-A126-A2553040F253 - 1fe8aba202e467f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VIPERWeatherSample.FetchWeatherUseCaseImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Domain/UseCase/FetchWeatherUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+               <Location
+                  uuid = "5EC2FC0D-EED1-476A-A126-A2553040F253 - fcf57257b68abdea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VIPERWeatherSample.FetchWeatherUseCaseImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Domain/UseCase/FetchWeatherUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+               <Location
+                  uuid = "5EC2FC0D-EED1-476A-A126-A2553040F253 - 1444bcad613e1fe9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VIPERWeatherSample.FetchWeatherUseCaseImpl.fetchWeather() async throws -&gt; Swift.Array&lt;VIPERWeatherSample.List&gt;"
+                  moduleName = "VIPERWeatherSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunalkumarr/Documents/Tutorial/VIPERWeatherSample/VIPERWeatherSample/Domain/UseCase/FetchWeatherUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA4813D4-1E80-44C0-AC6E-45141D227668"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPERWeatherSample/Presentation/ViewControllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16DCE06C-962B-45E1-B1DC-F9E1CDB833C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPERWeatherSample/Data/DataSource/WeatherDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "saveWeatherData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
